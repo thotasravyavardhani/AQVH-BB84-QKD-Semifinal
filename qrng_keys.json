@@ -1,0 +1,7 @@
+{
+  "timestamp": "2025-09-10 13:00:44",
+  "device": "ibm_torino",
+  "key_length": 32,
+  "qrng_key": "11001100110011001100110011001100",
+  "method": "IBM_Quantum_Runtime"
+}
